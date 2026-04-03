@@ -1,0 +1,4 @@
+"id","email","password","provider","role","email_verified","password_changed_at","token_version","failed_login_count","lock_until","auth_status","failed_password_attempts","failed_otp_attempts","otp_cooldown_until"
+"1","normal@test.com","$2a$10$DfjaihzSPnawNJp8IIQdHuxbEl1R8yXfEy7bHaaUpOLBYePMDTBbq","LOCAL","USER",1,"","0",0,"","NORMAL",0,0,""
+"2","unverified@test.com","$2a$10$SdR8myF2xN052lrSfJo1WepRXftDIemJ.kQZ7SXzsJsL5CDnW9.Wy","LOCAL","USER",0,"","0",0,"","NORMAL",0,0,""
+"3","otp@test.com","$2a$10$RdnyhpxPIsMeKkvLbJi3UuQz47J/tmVF1KAiB8Tb4.gqrerKS.lra","LOCAL","USER",1,"","0",0,"","OTP_REQUIRED",0,0,""

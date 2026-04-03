@@ -1,0 +1,2 @@
+"id","email","password","provider","role","email_verified","password_changed_at","token_version","failed_login_count","lock_until","auth_status","failed_password_attempts","failed_otp_attempts","otp_cooldown_until","account_created_at","total_bookings","verified_stays","review_count","helpful_votes_received","cancel_rate","ip_reputation_score"
+"1","normal@test.com","$2a$10$5JjnEcN9N4nPZHPKjai0duBOJG9i21l6mtt9a9dytY9cHNrfWWbgu","LOCAL","USER",1,"2026-03-20 08:00:00","2",0,"","NORMAL",0,0,"","2025-12-01 09:00:00",3,1,1,4,0.33,0.98
